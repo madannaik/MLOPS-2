@@ -11,7 +11,7 @@
 ### Create a docker image using the dockerfile given in the repository
 1. start docker using 
            
-       - systemctl start docker
+       [[- systemctl start docker]]
 2. go into directory where Dockerfile is downloaded and type into terminal
            
        - docker build -t your_image_name:version . 
