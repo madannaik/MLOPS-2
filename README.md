@@ -2,4 +2,7 @@
 ***
 
 ### INITIAL SETUP TO BE MADE 
-1)
+1. LINUX OS installed either on bare metal/VM/cloud instance[recommended redhat linux]
+2. Docker installed on linux
+3. patting enabled in linux
+4. openssh-server installed in linux
