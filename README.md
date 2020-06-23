@@ -112,5 +112,5 @@ This is a simple website monitoring system with the intergration of CI/CD tools.
 ### Build Pipeline View:
 ![](images/pipeline.png)
     
-## In collobration with : @madannaik
+## In collobration with : @nagrajankola
 
