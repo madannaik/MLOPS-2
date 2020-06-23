@@ -66,6 +66,7 @@ This is a simple website monitoring system with the intergration of CI/CD tools.
         fi
     
 ### Job3 :Check the website if it is running or not, In case is it fails it should send an email to the developer.
+### NOTE :Instead of 172.17.0.3 you can replace with it your site domain name as ip addresses will always be changing!!
 
 ![](images/j31.png)
 ![](images/j32.png)
